@@ -1,8 +1,8 @@
-<partial src="includes/header.html"/>
-  <div>olc</div>
+<partial src="/includes/header.html"/>
+  <div>our li</div>
   <div>porvia street</div>
   <div>singapore</div>
   <div>https://our-little-company.com</div>
   <div><a href="https://our-little-company.com">OLC</a></div>
   <div>webmaster@our-little-company.com</div>
-<partial src="includes/footer.html"/>
+<partial src="/includes/footer.html"/>
